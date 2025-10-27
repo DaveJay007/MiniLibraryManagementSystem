@@ -4,7 +4,7 @@ Overview
 
 The Mini Library Management System is a simple Python application that allows users to manage a library’s books and members. It supports adding, searching, borrowing, returning, viewing, and deleting books and members. The system is designed to be beginner-friendly and easy to understand.
 
-⸻
+
 
 Features
 	•	Add new books with ISBN, title, author, genre, and total copies.
@@ -17,13 +17,13 @@ Features
 	•	Delete books (if no copies are borrowed).
 	•	Delete members (if they have no borrowed books).
 
-⸻
+
 
 Technologies Used
 	•	Python 3
 	•	Object-Oriented Programming (OOP) concepts
 
-⸻
+
 
 Installation
 	1.	Make sure Python 3 is installed on your computer.
@@ -34,7 +34,7 @@ Installation
 
   (Replace filename.py with the name of your main Python file, e.g., library.py)
 
-⸻
+
 
 How to Use
 	1.	Run the program.
@@ -51,7 +51,7 @@ How to Use
 	•	0 to exit the program
 	3.	Follow the prompts for input (e.g., ISBN, title, member ID).
 
-⸻
+
 
 Sample Usage
 Choose: 1
@@ -73,7 +73,7 @@ Notes
 	•	A member cannot be deleted if they have borrowed books.
 	•	Valid genres are: "Fiction", "Non-Fiction", "Sci-Fi", "Programming"
 
-⸻
+
 
 License
 
